@@ -1,3 +1,3 @@
 # testrepodatascience
-## editiing the file
+## editing the file
 This is a markdown file
